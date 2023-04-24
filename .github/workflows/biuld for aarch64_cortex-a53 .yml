@@ -1,4 +1,4 @@
-name: Build ssrplus
+name: Build ssrplus aarch64_cortex-a53
 
 on:
   workflow_dispatch:
